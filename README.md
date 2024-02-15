@@ -8,14 +8,15 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-This repository is dedicated to the design and development of the CS4344 Audio Line Out Expansion Module. The module features a high-quality stereo audio output, utilizing the CS4344, a compact digital-to-analog converter (DAC) that offers excellent sound quality. Designed to occupy a single expansion slot on the SmartBoard, this module provides a seamless integration through a standard I2S interface, making it an ideal choice for high-fidelity audio playback applications.
+This repository houses the design and development of the CS4344 Audio Line Out Expansion Module, specifically engineered for integration with the SmartBoard platform. The SmartBoard, a versatile development and educational platform, facilitates learning and project development in hardware programming languages such as VHDL, Verilog, and SystemVerilog. Aimed at streamlining the complexities of FPGA interfacing, the SmartBoard enables rapid prototyping and testing of various interface supports and System on Module (SOM) concepts. The CS4344 module, featuring a compact and high-performance digital-to-analog converter (DAC), provides a superior stereo audio output capability. Designed to fit seamlessly into a single expansion slot on the SmartBoard, this module utilizes a standard I2S interface for integration, making it an exemplary choice for projects requiring high-fidelity audio playback and audio effects and filters development.
 
 ## Key Features of CS4344
-- **Stereo Audio Output**: Offers high-quality stereo sound, enhancing audio playback experiences.
-- **Utilizes CS4344 DAC**: Incorporates the CS4344 DAC for superior audio performance.
-- **SmartBoard Compatibility**: Designed to occupy a single expansion slot on the SmartBoard, ensuring a compact and efficient setup.
-- **Standard I2S Interface**: Uses the widely supported I2S interface for easy integration with a wide range of microcontrollers and DSPs.
-- **High Performance**: Supports sample rates up to 192 kHz, providing high-fidelity audio playback.
+- **24-bit Resolution**: Delivers high-fidelity audio with a 24-bit data converter, ensuring detailed and rich sound reproduction.
+- **Stereo Audio Output**: Provides high-quality stereo sound output, significantly enhancing the audio playback experience.
+- **Integrated CS4344 DAC**: Incorporates the CS4344 DAC for advanced audio performance, capable of handling sample rates up to 192 kHz, allowing for studio-quality sound.
+- **SmartBoard Compatibility**: Specifically designed for the SmartBoard platform, this module fits into a single expansion slot, offering a compact and efficient audio output solution.
+- **Standard I2S Interface**: Features a widely supported I2S interface for straightforward integration, facilitating ease of use with a broad array of microcontrollers and DSPs.
+- **Dynamic Range**: Boasts an impressive dynamic range, catering to a wide spectrum of audio applications, from basic audio playback to complex audio processing for development and educational purposes.
 
 ## Design Documentation
 
