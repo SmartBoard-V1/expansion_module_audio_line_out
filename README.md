@@ -8,7 +8,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-This repository houses the design and development of the CS4344 Audio Line Out Expansion Module, specifically engineered for integration with the SmartBoard platform. The SmartBoard, a versatile development and educational platform, facilitates learning and project development in hardware programming languages such as VHDL, Verilog, and SystemVerilog. Aimed at streamlining the complexities of FPGA interfacing, the SmartBoard enables rapid prototyping and testing of various interface supports and System on Module (SOM) concepts. The CS4344 module, featuring a compact and high-performance digital-to-analog converter (DAC), provides a superior stereo audio output capability. Designed to fit seamlessly into a single expansion slot on the SmartBoard, this module utilizes a standard I2S interface for integration, making it an exemplary choice for projects requiring high-fidelity audio playback and audio effects and filters development.
+This repository houses the design and development of the CS4344 Audio Line Out Expansion Module, specifically engineered for integration with the SmartBoard platform. The CS4344 module, featuring a compact and high-performance digital-to-analog converter (DAC), provides a superior stereo audio output capability. Designed to fit seamlessly into a single expansion slot on the SmartBoard, this module utilizes a standard I2S interface for integration, making it an exemplary choice for projects requiring high-fidelity audio playback and audio effects and filters development.
 
 ## Key Features of CS4344
 - **24-bit Resolution**: Delivers high-fidelity audio with a 24-bit data converter, ensuring detailed and rich sound reproduction.
